@@ -22,3 +22,9 @@ A simple React + Vite application that allows users to input text and view its t
    ```sh
    git clone https://github.com/your-username/custom-tokenizer.git
    cd custom-tokenizer
+   ```
+2. Do npm install.
+3. Once installed without any errors.
+4. Give any text input to the user input field
+   ![alt text](image.png).
+5. Live site is deployed in the netlify "https://sample-tokenizer.netlify.app/".
